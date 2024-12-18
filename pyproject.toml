@@ -9,7 +9,7 @@ repository = "https://github.com/XpressAI/xai-sklearn"
 keywords = ["xircuits", "scikit-learn", "machine learning", "data preprocessing", "model training", "model evaluation"]
 
 dependencies = [
-    "scikit-learn==1.5.0",
+    "scikit-learn==1.5",
     "pandas"
 ]
 
