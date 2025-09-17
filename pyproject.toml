@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A library of components for integrating scikit-learn models, datasets, and evaluation tools into XAI frameworks, including data preprocessing, model training, and evaluation."
 authors = [{ name = "XpressAI", email = "eduardo@xpress.ai" }]
 license = "Apache-2.0"
-readme = "readme.md"
+readme = "README.md"
 repository = "https://github.com/XpressAI/xai-sklearn"
 keywords = ["xircuits", "scikit-learn", "machine learning", "data preprocessing", "model training", "model evaluation"]
 
